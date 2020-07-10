@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there!
+[![Maciej Pędzich's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/maciejpedzich)
 
 I'm Maciej - 15-years-old high school student, (future) full-stack web developer and F1 fan. All in one person! My stack mainly consists of:
  - Node.js
@@ -35,7 +35,7 @@ But I like throwing other solutions into the mix too.
   - music genre? - bass house, but I can also dig tech house and electro house
   - video game? - Trackmania United Forever
 
-<br><br>
+<br>
 
 - Do you have siblings?
 
