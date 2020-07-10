@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hey there!
+
 I'm Maciej - 15-years-old high school student, (future) full-stack web developer and F1 fan. All in one person! My stack mainly consists of:
  - Node.js
  - Express
