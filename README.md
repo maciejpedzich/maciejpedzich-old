@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 
 <a href="https://dev.to/maciejpedzich"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Maciej Pędzich's DEV Profile" height="30" width="30"></a>
 
-I'm Maciej - 15-years-old high school student, (future) full-stack web developer and F1 fan. All in one person! My stack mainly consists of:
+## Introduction
+
+I'm Maciej - 15-years-old high school student, (future) full-stack web developer and F1 fan. All in one person! 
+
+My technology stack mainly consists of:
  - Node.js
  - Express
  - MongoDB/PostgreSQL
