@@ -10,30 +10,40 @@
 
 </pre>
 
-I'm 15-years-old high school student, and I want to work as a full-stack web developer in the future. When not coding, I'm probably watching an F1 race or playing retro video games.
+I'm 15-years-old high school student from Kielce, Poland, and I want to work as a full-stack web developer in the future. I believe, that by being creative and by cooperating with others, you can achieve success. When not coding, I'm probably watching an F1 race or playing retro video games.
 
 <details>
   <summary>My skills</summary>
   <strong>Frontend</strong>
-  <p>
-    <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/html.png?raw=true" width="50"></a>
-    <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/css.png?raw=true" width="50"></a>
-    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/js.png?raw=true" width="50"></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/ts.png" width="50"></a>
-    <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/vue.png" width="50"></a>
-  </p>
+  <table>
+   <tbody>
+    <td><a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/html.png?raw=true" width="50"></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/css.png?raw=true" width="50"></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/js.png?raw=true" width="50"></a>
+</td>
+    <td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/ts.png" width="50"></a>
+</td>
+    <td><a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/vue.png" width="50"></a></td>
+   </tbody>
+  </table>
   <strong>Backend</strong>
-  <p>
-    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/js.png?raw=true" width="50"></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/ts.png" width="50"></a>
-    <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/node.png" width="50"></a>
-    <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/expressjs.png" width="50"></a>
-  </p>
+  <table>
+   <tbody>
+    <td><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/js.png?raw=true" width="50"></a>
+</td>
+    <td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/ts.png" width="50"></a>
+</td>
+    <td><a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/node.png" width="50"></a></td>
+    <td><a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/expressjs.png" width="50"></a></td>
+   </tbody>
+  </table>
   <strong>Database</strong>
-  <p>
-    <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/mongodb.png" width="50"></a>
-    <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/postgres.png" width="50"></a>
-  </p>
+  <table>
+   <tbody>
+    <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/mongodb.png" width="50"></a></td>
+    <td><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/postgres.png" width="50"></a></td>
+   </tbody>
+  </table>
 </details>
 <details>
  <summary>FAQ</summary>
