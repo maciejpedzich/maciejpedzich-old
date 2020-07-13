@@ -55,3 +55,5 @@ But I like throwing other solutions into the mix too.
   <a href="https://maciejpedzi.ch"><img src="https://img.icons8.com/ios/50/000000/globe.png" alt="Website" height="30" width="30"></a>
  </p>
 </p>
+
+<small>Icons by <a href="https://icons8.com/icons">Icons8</a></small>
