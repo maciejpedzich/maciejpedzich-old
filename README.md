@@ -10,16 +10,31 @@
 
 </pre>
 
-15-years-old high school student, (future) full-stack web developer and F1 fan. All in one person! 
+I'm 15-years-old high school student, and I want to work as a full-stack web developer in the future. When not coding, I'm probably watching an F1 race or playing retro video games.
 
-I usually make web apps using:
- - Node.js
- - Express
- - MongoDB/PostgreSQL
- - Vue.js
-
-But I like throwing other solutions into the mix too.
-
+<details>
+  <summary>My skills</summary>
+  <strong>Frontend</strong>
+  <p>
+    <a href="https://en.wikipedia.org/wiki/HTML5"><img src="./images/html.png" width="50"></a>
+    <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3"><img src="./images/css.png" width="50"></a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./images/js.png" width="50"></a>
+    <a href="https://www.typescriptlang.org/"><img src="./images/ts.png" width="50"></a>
+    <a href="https://vuejs.org/"><img src="./images/vue.png" width="50"></a>
+  </p>
+  <strong>Backend</strong>
+  <p>
+    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./images/js.png" width="50"></a>
+    <a href="https://www.typescriptlang.org/"><img src="./images/ts.png" width="50"></a>
+    <a href="https://nodejs.org/en/"><img src="./images/node.png" width="50"></a>
+    <a href="https://expressjs.com/">Express</a>
+  </p>
+  <strong>Database</strong>
+  <p>
+    <a href="https://www.mongodb.com/"><img src="./images/mongodb.png" width="50"></a>
+    <a href="https://www.postgresql.org/"><img src="./images/postgres.png" width="50"></a>
+  </p>
+</details>
 <details>
  <summary>FAQ</summary>
 
