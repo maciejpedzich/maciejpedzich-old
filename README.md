@@ -56,4 +56,4 @@ But I like throwing other solutions into the mix too.
  </p>
 </p>
 
-<small>Icons by <a href="https://icons8.com/icons">Icons8</a></small>
+<small>Envelope and globe icons by <a href="https://icons8.com/icons">Icons8</a></small>
