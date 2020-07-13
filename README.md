@@ -12,9 +12,11 @@
 
 I'm 15-years-old high school student from Kielce, Poland, and I want to work as a full-stack web developer in the future. I believe, that by being creative and by cooperating with others, you can achieve success. When not coding, I'm probably watching an F1 race or playing retro video games.
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=maciejpedzich&hide=["stars"]&show_icons=true)
+
 <details>
   <summary>My skills</summary>
-  <strong>Frontend</strong>
+  <h3>Frontend</h3>
   <table>
    <tbody>
     <td><a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/html.png" width="50"></a></td>
@@ -26,7 +28,7 @@ I'm 15-years-old high school student from Kielce, Poland, and I want to work as 
     <td><a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/vue.png" width="50"></a></td>
    </tbody>
   </table>
-  <strong>Backend</strong>
+  <h3>Backend</h3>
   <table>
    <tbody>
     <td><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/js.png?raw=true" width="50"></a>
@@ -37,7 +39,7 @@ I'm 15-years-old high school student from Kielce, Poland, and I want to work as 
     <td><a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/expressjs.png" width="50"></a></td>
    </tbody>
   </table>
-  <strong>Database</strong>
+  <h3>Database</h3>
   <table>
    <tbody>
     <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/mongodb.png" width="50"></a></td>
