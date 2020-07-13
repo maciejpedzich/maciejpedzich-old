@@ -1,11 +1,11 @@
 <pre align="center">
 
-███    ███  █████   ██████ ██ ███████      ██     ██████  ███████ ██████  ███████ ██  ██████ ██   ██ 
-████  ████ ██   ██ ██      ██ ██           ██     ██   ██ ██      ██   ██    ███  ██ ██      ██   ██ 
-██ ████ ██ ███████ ██      ██ █████        ██     ██████  █████   ██   ██   ███   ██ ██      ███████ 
-██  ██  ██ ██   ██ ██      ██ ██      ██   ██     ██      ██      ██   ██  ███    ██ ██      ██   ██ 
-██      ██ ██   ██  ██████ ██ ███████  █████      ██      ███████ ██████  ███████ ██  ██████ ██   ██ 
-                                                                                                                                                                                                                                                                                
+.88b  d88.  .d8b.   .o88b. d888888b d88888b    d88b      d8888b. d88888b d8888b. d88888D d888888b  .o88b. db   db 
+88'YbdP`88 d8' `8b d8P  Y8   `88'   88'        `8P'      88  `8D 88'     88  `8D YP  d8'   `88'   d8P  Y8 88   88 
+88  88  88 88ooo88 8P         88    88ooooo     88       88oodD' 88ooooo 88   88    d8'     88    8P      88ooo88 
+88  88  88 88~~~88 8b         88    88~~~~~     88       88~~~   88~~~~~ 88   88   d8'      88    8b      88~~~88 
+88  88  88 88   88 Y8b  d8   .88.   88.     db. 88       88      88.     88  .8D  d8' db   .88.   Y8b  d8 88   88 
+YP  YP  YP YP   YP  `Y88P' Y888888P Y88888P Y8888P       88      Y88888P Y8888D' d88888P Y888888P  `Y88P' YP   YP 
 </pre>
 
 I'm 15-years-old high school student from Kielce, Poland, and I want to work as a full-stack web developer in the future. I believe, that by being creative and by cooperating with others, you can achieve success. When not coding, I'm probably watching an F1 race or playing retro video games.
