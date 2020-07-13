@@ -1,25 +1,19 @@
-<!--
-**maciejpedzich/maciejpedzich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre align="center">
 
-Here are some ideas to get you started:
+  _    _                   _____  _             __  __               _        _ 
+ | |  | |                 |_   _|( )           |  \/  |             (_)      (_)
+ | |__| |  ___  _   _       | |  |/ _ __ ___   | \  / |  __ _   ___  _   ___  _ 
+ |  __  | / _ \| | | |      | |    | '_ ` _ \  | |\/| | / _` | / __|| | / _ \| |
+ | |  | ||  __/| |_| | _   _| |_   | | | | | | | |  | || (_| || (__ | ||  __/| |
+ |_|  |_| \___| \__, |( ) |_____|  |_| |_| |_| |_|  |_| \__,_| \___||_| \___|| |
+                 __/ ||/                                                    _/ |
+                |___/                                                      |__/ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</pre>
 
-<a href="https://dev.to/maciejpedzich"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Maciej Pędzich's DEV Profile" height="30" width="30"></a>
+15-years-old high school student, (future) full-stack web developer and F1 fan. All in one person! 
 
-## Introduction
-
-I'm Maciej - 15-years-old high school student, (future) full-stack web developer and F1 fan. All in one person! 
-
-My technology stack mainly consists of:
+I usually make web apps using:
  - Node.js
  - Express
  - MongoDB/PostgreSQL
@@ -27,28 +21,38 @@ My technology stack mainly consists of:
 
 But I like throwing other solutions into the mix too.
 
-## FAQ
+<details>
+ <summary>FAQ</summary>
 
 - How to pronounce your full name?
 
-[Like this](https://translate.google.com/translate_tts?ie=UTF-8&q=Maciej%20P%C4%99dzich&tl=pl&total=1&idx=0&textlen=14&tk=891000.730774&client=t&prev=input&ttsspeed=1.5)
+ [Like this](https://translate.google.com/translate_tts?ie=UTF-8&q=Maciej%20P%C4%99dzich&tl=pl&total=1&idx=0&textlen=14&tk=891000.730774&client=t&prev=input&ttsspeed=1.5)
 
-- What's your favourite...
-  - book? - *Fables for Robots* by Stanisław Lem
-  - movie? - *Le Mans '66*
-  - music genre? - bass house, but I can also dig tech house and electro house
-  - video game? - Trackmania United Forever
+ - What's your favourite...
+   - book? - *Fables for Robots* by Stanisław Lem
+   - movie? - *Le Mans '66*
+   - music genre? - bass house, but I can also dig tech house and electro house
+   - video game? - Trackmania United Forever
 
-<br>
+ <br>
 
-- Do you have siblings?
+ - Do you have siblings?
 
-I don't have any brothers, but I have two older sisters: Nina (26 y/o) and Milena (24 y/o)
+ I don't have any brothers, but I have two older sisters: Nina (26 y/o) and Milena (24 y/o)
 
-- Will you disappear once the school year starts?
+ - Will you disappear once the school year starts?
 
-I'll try my best to keep writing new posts and making new projects during school year, but I might do it less frequently. We will see how things shape up.
+ I'll try my best to keep writing new posts and making new projects during school year, but I might do it less frequently. We will see how things shape up.
 
-## Contact
+</details>
 
-Email address: contact@maciejpedzi.ch
+<hr>
+
+<p align="center">
+ Connect with/find me on...
+ <p align="center">
+  <a href="https://dev.to/maciejpedzich"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="30" width="30"></a>
+  <a href="mailto:contact@maciejpedzi.ch"><img src="https://img.icons8.com/ios-filled/50/000000/filled-message.png" alt="Email address" height="30" width="30"></a>
+  <a href="https://maciejpedzi.ch"><img src="https://img.icons8.com/ios/50/000000/globe.png" alt="Website" height="30" width="30"></a>
+ </p>
+</p>
