@@ -10,7 +10,7 @@
 
 </pre>
 
-I'm 15-years-old high school student, and I want to work as a full-stack web developer in the future. When not coding, I'm probably watching an F1 race or playing retro video games.
+I'm 15-years-old high school student from Kielce, Poland, and I want to work as a full-stack web developer in the future. I believe, that by being creative and by cooperating with others, you can achieve success. When not coding, I'm probably watching an F1 race or playing retro video games.
 
 <details>
   <summary>My skills</summary>
