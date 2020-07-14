@@ -83,8 +83,8 @@ I'm 15-years-old high school student from Kielce, Poland, and I want to work as 
  <table>
    <tbody>
      <td><a href="https://dev.to/maciejpedzich"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" width="35"></a></td>
-     <td><a href="https://maciejpedzi.ch"><img src="https://img.icons8.com/ios/50/000000/globe.png" alt="Website" width="35"></a></td>
-     <td><a href="mailto:contact@maciejpedzi.ch"><img src="https://img.icons8.com/ios-filled/50/000000/filled-message.png" alt="Email address" width="35"></a></td>
+     <td><a href="https://maciejpedzi.ch"><img src="https://img.icons8.com/ios-filled/100/000000/globe.png" alt="Website" width="35"></a></td>
+     <td><a href="mailto:contact@maciejpedzi.ch"><img src="https://img.icons8.com/ios-filled/100/000000/filled-message.png" alt="Email address" width="35"></a></td>
   </tbody>
  </table>
 </p>
