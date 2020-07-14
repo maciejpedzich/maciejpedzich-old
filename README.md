@@ -44,7 +44,7 @@ I'm 15-years-old high school student from Kielce, Poland, and I want to work as 
     <td><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/postgres.png" width="50"></a></td>
    </tbody>
   </table>
-  <strong>Hosting/Deployment</strong>
+  <h3>Hosting/Deployment</h3>
   <table>
     <tbody>
       <td><a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/netlify.png" width="50" height="50"></a></td>
