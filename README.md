@@ -77,9 +77,6 @@ I'm 15-years-old high school student from Kielce, Poland, and I want to work as 
  I'll try my best to keep writing new posts and making new projects during school year, but I might do it less frequently. We will see how things shape up.
 
 </details>
-
-<hr>
-
 <details>
  <summary>Find/connect with me on...</summary>
  <br>
