@@ -8,9 +8,9 @@
 YP  YP  YP YP   YP  `Y88P' Y888888P Y88888P Y8888P       88      Y88888P Y8888D' d88888P Y888888P  `Y88P' YP   YP 
 </pre>
 
-I'm 15-years-old high school student from Kielce, Poland, and I want to work as a full-stack web developer in the future. I believe, that by being creative and by cooperating with others, you can achieve success. When not coding, I'm probably watching an F1 race or playing retro video games.
+Maciej is a 15-years-old high school student from Kielce, Poland, and he wants to work as a full-stack web developer in the future. He believes, that by being creative and by cooperating with others, you can achieve success. When not coding, he's probably watching an F1 race or playing retro video games.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=maciejpedzich&hide=["stars"]&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maciejpedzich&hide=["stars"]&show_icons=true)
 
 <details>
   <summary>Skills</summary>
@@ -78,7 +78,7 @@ I'm 15-years-old high school student from Kielce, Poland, and I want to work as 
 
 </details>
 <details>
- <summary>Find/connect with me on...</summary>
+ <summary>Connect with Maciej on...</summary>
  <br>
  <table>
    <tbody>
