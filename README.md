@@ -55,7 +55,7 @@ Maciej is a 15-years-old high school student from Kielce, Poland, and he wants t
   <table>
     <tbody>
       <td><a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/netlify.png" width="50" height="50"></a></td>
-      <td><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/aws.png" width="50" height="50"></a></td>
+      <td><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/aws.png" width="70"></a></td>
       <td><a href="https://www.mongodb.com/cloud/atlas"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/atlas.png" width="100"></a></td>
     </tbody>
   </table>
