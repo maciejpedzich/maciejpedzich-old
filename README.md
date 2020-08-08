@@ -8,9 +8,7 @@
 YP  YP  YP YP   YP  `Y88P' Y888888P Y88888P Y8888P       88      Y88888P Y8888D' d88888P Y888888P  `Y88P' YP   YP 
 </pre>
 
-I'm 15-years-old high school student from Kielce, Poland, and I want to work as a full-stack web developer in the future. I believe, that by being creative and by cooperating with others, you can achieve success. When not coding, I'm probably watching an F1 race or playing retro video games.
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=maciejpedzich&hide=["stars"]&show_icons=true)
+I'm 15-years-old high school student from Kielce, Poland, and I want to become a full-stack web developer in the future. I believe, that by being creative and by cooperating with others, you can achieve success. When not coding, I'm probably watching an F1 race or playing retro video games.
 
 <details>
   <summary>My skills</summary>
@@ -44,6 +42,15 @@ I'm 15-years-old high school student from Kielce, Poland, and I want to work as 
     <td><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/postgres.png" width="50"></a></td>
    </tbody>
   </table>
+  <h3>Tooling</h3>
+  <table>
+    <tbody>
+      <td><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/git.png" width="50"></a></td>
+      <td><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/vscode.png" width="50"></a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/bash.png" width="50"></a></td>
+      <td><a href="https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/powershell.png" width="50"></a></td>
+    </tbody>
+  </table>
   <h3>Hosting/Deployment</h3>
   <table>
     <tbody>
@@ -70,11 +77,11 @@ I'm 15-years-old high school student from Kielce, Poland, and I want to work as 
 
  - Do you have siblings?
 
- I don't have any brothers, but I have two older sisters: Nina (26 y/o) and Milena (24 y/o)
+ I have two older sisters: Nina (26 y/o) and Milena (24 y/o). I don't have any brothers though.
 
- - Will you disappear once the school year starts?
+ - Hotel?
 
- I'll try my best to keep writing new posts and making new projects during school year, but I might do it less frequently. We will see how things shape up.
+ Trivago
 
 </details>
 
@@ -83,7 +90,7 @@ I'm 15-years-old high school student from Kielce, Poland, and I want to work as 
 <p align="center">
  Connect with/find me on...
  <p align="center">
-  <a href="https://dev.to/maciejpedzich"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="30" width="30"></a>
+  <a href="https://dev.to/maciejpedzich"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" height="30" width="30"></a>
   <a href="mailto:contact@maciejpedzi.ch"><img src="https://img.icons8.com/ios-filled/50/000000/filled-message.png" alt="Email address" height="30" width="30"></a>
   <a href="https://maciejpedzi.ch"><img src="https://img.icons8.com/ios/50/000000/globe.png" alt="Website" height="30" width="30"></a>
  </p>
