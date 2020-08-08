@@ -8,10 +8,10 @@
 YP  YP  YP YP   YP  `Y88P' Y888888P Y88888P Y8888P       88      Y88888P Y8888D' d88888P Y888888P  `Y88P' YP   YP 
 </pre>
 
-I'm 15-years-old high school student from Kielce, Poland, and I want to become a full-stack web developer in the future. I believe, that by being creative and by cooperating with others, you can achieve success. When not coding, I'm probably watching an F1 race or playing retro video games.
+Maciej is a 15-years-old high school student from Kielce, Poland, and he wants to become a full-stack web developer in the future. He believes, that by being creative and by cooperating with others, you can achieve success. When not coding, he's probably watching an F1 race or playing retro video games.
 
 <details>
-  <summary>My skills</summary>
+  <summary>Skills</summary>
   <h3>Frontend</h3>
   <table>
    <tbody>
@@ -84,6 +84,7 @@ I'm 15-years-old high school student from Kielce, Poland, and I want to become a
  Trivago
 
 </details>
+<<<<<<< HEAD
 
 <hr>
 
@@ -94,6 +95,18 @@ I'm 15-years-old high school student from Kielce, Poland, and I want to become a
   <a href="mailto:contact@maciejpedzi.ch"><img src="https://img.icons8.com/ios-filled/50/000000/filled-message.png" alt="Email address" height="30" width="30"></a>
   <a href="https://maciejpedzi.ch"><img src="https://img.icons8.com/ios/50/000000/globe.png" alt="Website" height="30" width="30"></a>
  </p>
+=======
+<details>
+ <summary>Connect with Maciej on...</summary>
+ <br>
+ <table>
+   <tbody>
+     <td><a href="https://dev.to/maciejpedzich"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" width="35"></a></td>
+     <td><a href="https://maciejpedzi.ch"><img src="https://img.icons8.com/ios/100/000000/globe.png" alt="Website" width="35"></a></td>
+     <td><a href="mailto:contact@maciejpedzi.ch"><img src="https://img.icons8.com/ios/100/000000/filled-message.png" alt="Email address" width="35"></a></td>
+  </tbody>
+ </table>
+>>>>>>> d4ab913a5d3b41e5b885d2294ab4f92261926a2e
 </p>
 
 <small>Envelope and globe icons by <a href="https://icons8.com/icons">Icons8</a></small>
