@@ -84,18 +84,6 @@ Maciej is a 15-years-old high school student from Kielce, Poland, and he wants t
  Trivago
 
 </details>
-<<<<<<< HEAD
-
-<hr>
-
-<p align="center">
- Connect with/find me on...
- <p align="center">
-  <a href="https://dev.to/maciejpedzich"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" height="30" width="30"></a>
-  <a href="mailto:contact@maciejpedzi.ch"><img src="https://img.icons8.com/ios-filled/50/000000/filled-message.png" alt="Email address" height="30" width="30"></a>
-  <a href="https://maciejpedzi.ch"><img src="https://img.icons8.com/ios/50/000000/globe.png" alt="Website" height="30" width="30"></a>
- </p>
-=======
 <details>
  <summary>Connect with Maciej on...</summary>
  <br>
@@ -106,7 +94,6 @@ Maciej is a 15-years-old high school student from Kielce, Poland, and he wants t
      <td><a href="mailto:contact@maciejpedzi.ch"><img src="https://img.icons8.com/ios/100/000000/filled-message.png" alt="Email address" width="35"></a></td>
   </tbody>
  </table>
->>>>>>> d4ab913a5d3b41e5b885d2294ab4f92261926a2e
 </p>
 
 <small>Envelope and globe icons by <a href="https://icons8.com/icons">Icons8</a></small>
