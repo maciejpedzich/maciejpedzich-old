@@ -77,7 +77,7 @@ Maciej is a 15-years-old high school student from Kielce, Poland, and he wants t
 
  - Do you have siblings?
 
- I have two older sisters: Nina (26 y/o) and Milena (24 y/o). I don't have any brothers though.
+ I have two older sisters: Nina and Milena. I don't have any brothers though.
 
  - Hotel?
 
