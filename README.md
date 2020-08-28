@@ -8,7 +8,7 @@
 YP  YP  YP YP   YP  `Y88P' Y888888P Y88888P Y8888P       88      Y88888P Y8888D' d88888P Y888888P  `Y88P' YP   YP 
 </pre>
 
-Maciej is a 15-years-old high school student from Kielce, Poland, and he wants to become a full-stack web developer in the future. He believes, that by being creative and by cooperating with others, you can achieve success. When not coding, he's probably watching an F1 race or playing retro video games.
+Maciej is a 15-years-old high school student from Kielce, Poland, but also a full-stack web developer. He believes, that by being creative and by cooperating with others, you can achieve success. When not coding, he's probably watching an F1 race or playing retro video games.
 
 <details>
   <summary>Skills</summary>
@@ -63,23 +63,28 @@ Maciej is a 15-years-old high school student from Kielce, Poland, and he wants t
 <details>
  <summary>FAQ</summary>
 
-- How to pronounce your full name?
+ > How to pronounce your full name?
 
  [Like this](https://translate.google.com/translate_tts?ie=UTF-8&q=Maciej%20P%C4%99dzich&tl=pl&total=1&idx=0&textlen=14&tk=891000.730774&client=t&prev=input&ttsspeed=1.5)
 
- - What's your favourite...
-   - book? - *Fables for Robots* by Stanisław Lem
-   - movie? - *Le Mans '66*
-   - music genre? - bass house, but I can also dig tech house and electro house
-   - video game? - Trackmania United Forever
+ > What's your favourite...
+ >  - book?
+ >  - movie?
+ >  - music genre?
+ >  - video game?
+ 
+ - *Fables for Robots* by Stanisław Lem
+ - *The Rush*
+ - bass house, but I like tech house and electro house too
+ - Trackmania United Forever
 
  <br>
 
- - Do you have siblings?
+ > Do you have siblings?
 
- I have two older sisters: Nina and Milena. I don't have any brothers though.
+ I have two older sisters: Milena and Nina. I don't have any brothers though.
 
- - Hotel?
+ > Hotel?
 
  Trivago
 
