@@ -8,7 +8,7 @@
 YP  YP  YP YP   YP  `Y88P' Y888888P Y88888P Y8888P       88      Y88888P Y8888D' d88888P Y888888P  `Y88P' YP   YP 
 </pre>
 
-Maciej Pędzich is a 15-years-old high school student from Kielce, Poland. He makes web applications using Vue, Node.js, Express and MongoDB/PostgreSQL, but he likes experimenting with other solutions too. He believes that by being creative and cooperating with others, you can achieve success. When not coding he’s probably watching an F1 race or playing old-school video games.
+Maciej Pędzich is a 15-year-old high school student from Kielce, Poland. He makes web applications using Vue, Node.js, Express and MongoDB/PostgreSQL, but he likes experimenting with other solutions too. He believes that by being creative and cooperating with others, you can achieve success. When not coding he’s probably watching an F1 race, or playing retro video games.
 
 <details>
   <summary>Skills</summary>
