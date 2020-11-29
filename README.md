@@ -61,7 +61,7 @@ Maciej Pędzich is a 15-year-old high school student from Kielce, Poland. He mak
   </table>
 </details>
 <details>
- <summary>FAQ</summary>
+ <summary>Questions nobody asked, but I decided to answer anyway</summary>
 
  > How to pronounce your full name?
 
