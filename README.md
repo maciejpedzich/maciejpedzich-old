@@ -49,12 +49,14 @@ Maciej Pędzich is a 15-year-old high school student from Kielce, Poland. He mak
       <td><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/vscode.png" width="50"></a></td>
       <td><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/bash.png" width="50"></a></td>
       <td><a href="https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/powershell.png" width="50"></a></td>
+      <td><a href="https://www.postman.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/postman.png" width="50"></a></td>
     </tbody>
   </table>
   <h3>Hosting/Deployment</h3>
   <table>
     <tbody>
       <td><a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/netlify.png" width="50" height="50"></a></td>
+      <td><a href="https://www.heroku.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/heroku.png" width="50" height="50"></a></td>
       <td><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/aws.png" width="70"></a></td>
       <td><a href="https://www.mongodb.com/cloud/atlas"><img src="https://raw.githubusercontent.com/maciejpedzich/maciejpedzich/master/images/atlas.png" width="100"></a></td>
     </tbody>
@@ -63,29 +65,34 @@ Maciej Pędzich is a 15-year-old high school student from Kielce, Poland. He mak
 <details>
  <summary>Questions nobody asked, but I decided to answer anyway</summary>
 
- > How to pronounce your full name?
+> How to pronounce your full name?
 
- [Like this](https://translate.google.com/translate_tts?ie=UTF-8&q=Maciej%20P%C4%99dzich&tl=pl&total=1&idx=0&textlen=14&tk=891000.730774&client=t&prev=input&ttsspeed=1.5)
+[Like this](https://translate.google.com/translate_tts?ie=UTF-8&q=Maciej%20P%C4%99dzich&tl=pl&total=1&idx=0&textlen=14&tk=891000.730774&client=t&prev=input&ttsspeed=1.5)
 
- > What's your favourite...
- >  - book?
- >  - movie?
- >  - music genre?
- >  - video game?
- 
- - *Fables for Robots* by Stanisław Lem
- - *The Rush*
- - bass house, but I like tech house and electro house too
- - Trackmania United Forever
+> What's your favourite...
+>
+> - book?
+> - movie?
+> - music genre?
+> - video game?
+
+- _Fables for Robots_ by Stanisław Lem
+- _The Rush_
+- bass house, but I like tech house and electro house too
+- Trackmania United Forever (some may say it's not a retro game, but it came out in 2008, so... I guess kind of retro?)
 
  <br>
 
- > Do you have siblings?
+> Do you have siblings?
 
- I have two older sisters: Milena and Nina. I don't have any brothers though.
+I have two older sisters: Milena and Nina. I don't have any brothers though.
 
- > Hotel?
+> What's your motto?
 
- Trivago
+_Good artists copy, great artists steal. Except I'm a programmer, which makes no sense in that case. Is that even a motto anymore? And why is everything still in italics?_
+
+> Hotel?
+
+Trivago
 
 </details>
