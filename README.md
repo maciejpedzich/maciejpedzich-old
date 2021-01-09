@@ -89,7 +89,7 @@ I have two older sisters: Milena and Nina. I don't have any brothers though.
 
 > What's your motto?
 
-_Good artists copy, great artists steal. Except I'm a programmer, which makes no sense in that case. Is that even a motto anymore? And why is everything still in italics?_
+_Good artists copy, great artists steal._
 
 > Hotel?
 
